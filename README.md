@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=header&text=WELCOME&fontSize=70&desc=Heo's Gitbhub&animation=fadeIn&descSize=30&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=header&text=WELCOME&fontSize=70&desc=Heo's%20Gitbhub&animation=fadeIn&descSize=30&descAlign=70)
 
 ### Heo GeonNyoung
 <img align="right" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heogeon0&layout=compact&theme=nord&hide_border=true" />:mailbox:**Email** : heo3793@naver.com 
